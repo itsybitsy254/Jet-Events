@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The project can be accessed via:[Jet-Events](https://jet-events.vercel.app/)
+
+API endpoints: [Jet-Events Database](https://jet-events-db.onrender.com)
+
+### User Dummy's
+Admin password: admin
+
+#User Logins
+email:jane@gmail.com / john@gmail.com
+Default password: "12345"
 ## Available Scripts
 
 In the project directory, you can run:
