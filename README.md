@@ -8,7 +8,7 @@ API endpoints: [Jet-Events Database](https://jet-events-db.onrender.com)
 
 ### User Dummy's
 Admin password: admin
-Event example img src: https://img.goabase.net/images/flyer/large/20241002_eclipse-gathering-rapanui_20240809175938.webp
+#Event example img src: https://img.goabase.net/images/flyer/large/20241002_eclipse-gathering-rapanui_20240809175938.webp
 #User Logins
 email:jane@gmail.com / john@gmail.com
 Default password: "12345"
